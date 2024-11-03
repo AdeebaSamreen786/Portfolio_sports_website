@@ -1,0 +1,25 @@
+body{
+  background-color:  #18BC9C;
+}
+
+ a{
+    /* padding: 55px 55px 55px 55px; */
+    font-size: 20px;
+    text-decoration: none;
+    background-color: gray;
+    padding: 15px 15px 15px 15px;
+    width: 300px;
+    border-radius: 50px;
+  }
+  
+  div{
+    text-align: center;
+  }
+  
+
+  a:hover{
+    color: green;
+    background-color: black;
+  }
+
+  
